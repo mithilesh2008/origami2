@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(208, 221, 22);
+    text-align: center;
+   
+}
+/* *{
+    border:solid;
+} */
+.header{
+    background-color:rgba(226, 24, 17, 0.842);
+}
+
+
+.footer{
+    display:flex;
+    justify-content:flex-end;
+}
+a:link{
+    color:blanchedalmond;
+}         
+a:visited{
+    color:blanchedalmond;
+}
+.item{
+    position:relative;
+}
+
+
